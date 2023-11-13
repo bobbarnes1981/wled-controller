@@ -13,3 +13,7 @@ A controller board for wled with the following features
 ![Render Front](images/Render-Front-2023-11-10.png "Render Front")
 
 ![Render Back](images/Render-Back-2023-11-10.png "Render Back")
+
+![Working](images/PXL_20231113_184006480.jpg "Working")
+
+![Built](images/PXL_20231113_203837695.PORTRAIT.jpg "Built")
